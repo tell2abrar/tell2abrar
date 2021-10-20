@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **tell2abrar@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-abrar-azam/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACymlqAB99C-miQUHxR25fD5VIaaV1yYqBE,1635469916951)/](https://www.linkedin.com/in/muhammad-abrar-azam/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACymlqAB99C-miQUHxR25fD5VIaaV1yYqBE,1635469916951)/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-abrar-azam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-abrar-azam" height="30" width="40" /></a>
