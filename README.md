@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abrar Azam</h1>
 <h3 align="center">A passionate MERN stack developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **TypeScript,NextJs**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **react,node,redux,express**
+- 💬 Ask me about **react,node,redux/recoil,express,appolo graphql,sequelize,typeorm**
 
 - 📫 How to reach me **tell2abrar@gmail.com**
 
