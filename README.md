@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **react,node,redux/recoil,express,appolo graphql,sequelize,typeorm**
+- 💬 Ask me about **react,node,redux/recoil,express,apolo graphql,sequelize,typeorm**
 
 - 📫 How to reach me **tell2abrar@gmail.com**
 
