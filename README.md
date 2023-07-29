@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **react,node,redux/recoil,express,apolo graphql,sequelize,typeorm**
+- 💬 Ask me about **ReactJs, NodeJs, Typescript/Javascript, ExpressJs, NestJs, Redux/Recoil, GraphQL, PostgresQL SequelizeJs, TypeORM, MUI, ChakraUI, AntD, TailwindCSS**
 
 - 📫 How to reach me **tell2abrar@gmail.com**
 
