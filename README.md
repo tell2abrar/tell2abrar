@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abrar Azam</h1>
 <h3 align="center">A passionate MERN stack developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 Area of interest **Backend development**
 
-- 💬 Ask me about **ReactJs, NodeJs, Typescript/Javascript, ExpressJs, NestJs, Redux/Recoil, GraphQL, PostgresQL SequelizeJs, TypeORM, MUI, ChakraUI, AntD, TailwindCSS**
+- 💬 Ask me about **Typescript, Javascript, ReactJs, NodeJs,, ExpressJs, NestJs, GraphQL, PostgresQL SequelizeJs, TypeORM,**
 
 - 📫 How to reach me **tell2abrar@gmail.com**
 
