@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abrar Azam</h1>
-<h3 align="center">A passionate MERN stack developer from Pakistan</h3>
+<h3 align="center">A passionate backend focused software engineer from Pakistan</h3>
 
-- 🌱 Currently learning **Docker, cloud computing, AWS, micro services architecture**
+- 🌱 Currently learning **Java, Java Spring/Spring Boot, Docker, cloud computing, AWS, micro services architecture**
 
-- 💬 Ask me about **Typescript, Javascript, ReactJs, NodeJs,, ExpressJs, NestJs, GraphQL, PostgresQL SequelizeJs, TypeORM,**
+- 💬 Ask me about **Typescript, Javascript, ReactJs, NodeJs, ExpressJs, NestJs, GraphQL, PostgresQL SequelizeJs, TypeORM,**
 
 - 📫 How to reach me **tell2abrar@gmail.com**
 
