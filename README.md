@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abrar Azam</h1>
 <h3 align="center">A passionate backend focused software engineer from Pakistan</h3>
 
-- 🌱 Currently learning **Java, Java Spring/Spring Boot, Docker, cloud computing, AWS, micro services architecture**
+- 🌱 Currently learning **GenAI, Agentic AI, Docker, cloud computing, AWS, micro services architecture**
 
 - 💬 Ask me about **Typescript, Javascript, ReactJs, NodeJs, ExpressJs, NestJs, GraphQL, PostgresQL SequelizeJs, TypeORM,**
 
